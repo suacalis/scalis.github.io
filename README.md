@@ -1,2 +1,2 @@
-# scalis.github.io
+# Şuayyip Çalış
 Kişisel Web Sitesi
